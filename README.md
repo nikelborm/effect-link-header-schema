@@ -1,1 +1,6 @@
 # effect-link-header-schema
+
+1. look at: https://github.com/thlorenz/parse-link-header/tree/master
+2. look at: https://www.npmjs.com/package/format-link-header
+3. https://datatracker.ietf.org/doc/html/rfc8288
+4. https://datatracker.ietf.org/doc/html/rfc5988
