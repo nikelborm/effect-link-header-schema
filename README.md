@@ -1,0 +1,1 @@
+# effect-link-header-schema
